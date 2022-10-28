@@ -10,7 +10,7 @@
 }
 
 body {
-    color: var(--orange);
+    color: white;
     font-family: 'Finger Paint', cursive;
 }
 h1 {
@@ -72,5 +72,17 @@ button:hover {
 
 .jaki{
     margin-top: 1rem;
-    background-color:whitesmoke;
+    background-color:bisque;
+    border-radius: 90% 50%;
+    margin-right: 1.5rem;
+}
+
+.jaki2{
+    margin-top: 1rem;
+    background-color:blanchedalmond;
+    border-radius: 50% 90%;
+}
+#playerText{
+    padding-top: 2rem;
+    color:aliceblue;
 }
