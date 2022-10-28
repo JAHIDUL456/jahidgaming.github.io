@@ -72,6 +72,11 @@ function restart() {
 document.querySelector('.jaki').addEventListener('click', function(){
 
     document.querySelector('#playerText').textContent='THIS GAME DEVELOPED BY JAHID 😏';
-})
+});
+
+document.querySelector('.jaki2').addEventListener('click', function(){
+
+  alert("GAME OWNER: Nusrat , Tohidul, Rashel");
+});
 
 startGame()
